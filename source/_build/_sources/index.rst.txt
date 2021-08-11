@@ -10,4 +10,4 @@ Welcome to Python for kids's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   lesson_1.md
+   lesson_0.md

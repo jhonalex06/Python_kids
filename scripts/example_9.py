@@ -1,4 +1,3 @@
-#Python Program to draw Olympics logo in Turtle Programming
 import turtle
  
 t = turtle.Turtle()

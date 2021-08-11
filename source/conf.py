@@ -62,6 +62,8 @@ html_theme_options = {
     'sticky_navigation': 'true'
 }
 
+latex_engine = 'pdflatex'
+
 # -- Extension configuration -------------------------------------------------
 import sys,os
 sys.path.insert(0, os.path.abspath(".."))
