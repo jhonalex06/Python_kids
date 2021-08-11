@@ -12,4 +12,4 @@ Usually, a *Python* course starts with algorithms definition, so I will use the 
 
 2. Secondly, we will have the opportunity to develop ten exercises, each one with a different level of difficulty.
 
-3. Finally, with the team, we will analyze the results of the exercises and choose the most interesting of them.
+3. Finally, with the team, we will analyze the results of the exercises and choose the most interesting of them. 
