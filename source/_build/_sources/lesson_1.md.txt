@@ -1,0 +1,117 @@
+# Lesson 1: Algorithms with Turtle 
+
+I consider that Python is an excellent language to start programming, especially for kids. Usually, a Python course starts with algorithms, so I will use the library Turtle for this class since it is the best way to show what is an algorithm is for kids. 
+
+How to do: 
+
+Definition: An algorithm is a finite sequence of steps to generate a result.
+
+## Example 1: Draw a line 
+
+```{code-block} python
+a = 2
+print('my 1st line')
+print(f'my {a}nd line')
+```
+
+<a class="" data-lightbox="Cargar proyecto" href="_static/lesson1/test.gif" title="Cargar proyecto" data-title="Cargar proyecto"><img src="_static/lesson1/test.gif" class="align-center" width="800px" height="500px" alt="Cargar proyecto">
+</a>
+
+## Example 2: Change size of the line
+
+```{code-block} python
+a = 2
+print('my 1st line')
+print(f'my {a}nd line')
+```
+
+<a class="" data-lightbox="Cargar proyecto" href="_static/lesson1/test.gif" title="Cargar proyecto" data-title="Cargar proyecto"><img src="_static/lesson1/test.gif" class="align-center" width="800px" height="500px" alt="Cargar proyecto">
+</a>
+
+## Example 3: Change colour of the line 
+
+```{code-block} python
+a = 2
+print('my 1st line')
+print(f'my {a}nd line')
+```
+
+<a class="" data-lightbox="Cargar proyecto" href="_static/lesson1/test.gif" title="Cargar proyecto" data-title="Cargar proyecto"><img src="_static/lesson1/test.gif" class="align-center" width="800px" height="500px" alt="Cargar proyecto">
+</a>
+
+## Example 4: Draw to lines 
+
+```{code-block} python
+a = 2
+print('my 1st line')
+print(f'my {a}nd line')
+```
+
+<a class="" data-lightbox="Cargar proyecto" href="_static/lesson1/test.gif" title="Cargar proyecto" data-title="Cargar proyecto"><img src="_static/lesson1/test.gif" class="align-center" width="800px" height="500px" alt="Cargar proyecto">
+</a>
+
+## Example 5: Draw a circle 
+
+```{code-block} python
+a = 2
+print('my 1st line')
+print(f'my {a}nd line')
+```
+
+<a class="" data-lightbox="Cargar proyecto" href="_static/lesson1/test.gif" title="Cargar proyecto" data-title="Cargar proyecto"><img src="_static/lesson1/test.gif" class="align-center" width="800px" height="500px" alt="Cargar proyecto">
+</a>
+
+## Example 6: Draw a dot
+
+```{code-block} python
+a = 2
+print('my 1st line')
+print(f'my {a}nd line')
+```
+
+<a class="" data-lightbox="Cargar proyecto" href="_static/lesson1/test.gif" title="Cargar proyecto" data-title="Cargar proyecto"><img src="_static/lesson1/test.gif" class="align-center" width="800px" height="500px" alt="Cargar proyecto">
+</a>
+
+## Example 7: Change the Background colour
+
+```{code-block} python
+a = 2
+print('my 1st line')
+print(f'my {a}nd line')
+```
+
+<a class="" data-lightbox="Cargar proyecto" href="_static/lesson1/test.gif" title="Cargar proyecto" data-title="Cargar proyecto"><img src="_static/lesson1/test.gif" class="align-center" width="800px" height="500px" alt="Cargar proyecto">
+</a>
+
+## Example 8: Change the title
+
+```{code-block} python
+a = 2
+print('my 1st line')
+print(f'my {a}nd line')
+```
+
+<a class="" data-lightbox="Cargar proyecto" href="_static/lesson1/test.gif" title="Cargar proyecto" data-title="Cargar proyecto"><img src="_static/lesson1/test.gif" class="align-center" width="800px" height="500px" alt="Cargar proyecto">
+</a>
+
+## Example 9: Create and Start
+
+```{code-block} python
+a = 2
+print('my 1st line')
+print(f'my {a}nd line')
+```
+
+<a class="" data-lightbox="Cargar proyecto" href="_static/lesson1/test.gif" title="Cargar proyecto" data-title="Cargar proyecto"><img src="_static/lesson1/test.gif" class="align-center" width="800px" height="500px" alt="Cargar proyecto">
+</a>
+
+## Example 10:
+
+```{code-block} python
+a = 2
+print('my 1st line')
+print(f'my {a}nd line')
+```
+
+<a class="" data-lightbox="Cargar proyecto" href="_static/lesson1/test.gif" title="Cargar proyecto" data-title="Cargar proyecto"><img src="_static/lesson1/test.gif" class="align-center" width="800px" height="500px" alt="Cargar proyecto">
+</a>
