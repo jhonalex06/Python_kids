@@ -33,7 +33,7 @@ t.forward(400)
 turtle.done()
 ```
 
-<a class="" data-lightbox="Cargar proyecto" href="_static/lesson1/example1.gif" title="Cargar proyecto" data-title="Cargar proyecto"><img src="_static/lesson1/example1.gif" class="align-center" width="800px" height="500px" alt="Cargar proyecto">
+<a class="" data-lightbox="Exercise 1: Draw a line" href="_static/lesson1/example1.gif" title="Exercise 1: Draw a line" data-title="Exercise 1: Draw a line"><img src="_static/lesson1/example1.gif" class="align-center" width="800px" height="500px" alt="Exercise 1: Draw a line">
 </a>
 
 ## Exercise 2: Change line's size
@@ -58,7 +58,7 @@ t.forward(400)
 turtle.done()
 ```
 
-<a class="" data-lightbox="Cargar proyecto" href="_static/lesson1/example2.gif" title="Cargar proyecto" data-title="Cargar proyecto"><img src="_static/lesson1/example2.gif" class="align-center" width="800px" height="500px" alt="Cargar proyecto">
+<a class="" data-lightbox="Exercise 2: Change line's size" href="_static/lesson1/example2.gif" title="Exercise 2: Change line's size" data-title="Exercise 2: Change line's size"><img src="_static/lesson1/example2.gif" class="align-center" width="800px" height="500px" alt="Exercise 2: Change line's size">
 </a>
 
 ## Exercise 3: Change background and line colour 
@@ -85,7 +85,7 @@ t.forward(400)
 turtle.done()
 ```
 
-<a class="" data-lightbox="Cargar proyecto" href="_static/lesson1/example3.gif" title="Cargar proyecto" data-title="Cargar proyecto"><img src="_static/lesson1/example3.gif" class="align-center" width="800px" height="500px" alt="Cargar proyecto">
+<a class="" data-lightbox="Exercise 3: Change background and line colour" href="_static/lesson1/example3.gif" title="Exercise 3: Change background and line colour" data-title="Exercise 3: Change background and line colour"><img src="_static/lesson1/example3.gif" class="align-center" width="800px" height="500px" alt="Exercise 3: Change background and line colour">
 </a>
 
 ## Exercise 4: Modify Turtle's colour and shape
@@ -115,7 +115,7 @@ t.forward(400)
 turtle.done()
 ```
 
-<a class="" data-lightbox="Cargar proyecto" href="_static/lesson1/example4.gif" title="Cargar proyecto" data-title="Cargar proyecto"><img src="_static/lesson1/example4.gif" class="align-center" width="800px" height="500px" alt="Cargar proyecto">
+<a class="" data-lightbox="Exercise 4: Modify Turtle's colour and shape" href="_static/lesson1/example4.gif" title="Exercise 4: Modify Turtle's colour and shape" data-title="Exercise 4: Modify Turtle's colour and shape"><img src="_static/lesson1/example4.gif" class="align-center" width="800px" height="500px" alt="Exercise 4: Modify Turtle's colour and shape">
 </a>
 
 ## Exercise 5: Draw two lines  
@@ -148,7 +148,7 @@ t.forward(400)
 turtle.done()
 ```
 
-<a class="" data-lightbox="Cargar proyecto" href="_static/lesson1/example5.gif" title="Cargar proyecto" data-title="Cargar proyecto"><img src="_static/lesson1/example5.gif" class="align-center" width="800px" height="500px" alt="Cargar proyecto">
+<a class="" data-lightbox="Exercise 5: Draw two lines" href="_static/lesson1/example5.gif" title="Exercise 5: Draw two lines" data-title="Exercise 5: Draw two lines"><img src="_static/lesson1/example5.gif" class="align-center" width="800px" height="500px" alt="Exercise 5: Draw two lines">
 </a>
 
 ## Exercise 6: Draw a square
@@ -185,7 +185,7 @@ t.forward(400)
 turtle.done()
 ```
 
-<a class="" data-lightbox="Cargar proyecto" href="_static/lesson1/example6.gif" title="Cargar proyecto" data-title="Cargar proyecto"><img src="_static/lesson1/example6.gif" class="align-center" width="800px" height="500px" alt="Cargar proyecto">
+<a class="" data-lightbox="Exercise 6: Draw a square" href="_static/lesson1/example6.gif" title="Exercise 6: Draw a square" data-title="Exercise 6: Draw a square"><img src="_static/lesson1/example6.gif" class="align-center" width="800px" height="500px" alt="Exercise 6: Draw a square">
 </a>
 
 ## Exercise 7: Drawing of square, dot and circle
@@ -224,7 +224,7 @@ t.circle(200)
 turtle.done()
 ```
 
-<a class="" data-lightbox="Cargar proyecto" href="_static/lesson1/example7.gif" title="Cargar proyecto" data-title="Cargar proyecto"><img src="_static/lesson1/example7.gif" class="align-center" width="800px" height="500px" alt="Cargar proyecto">
+<a class="" data-lightbox="Exercise 7: Drawing of square, dot and circle" href="_static/lesson1/example7.gif" title="Exercise 7: Drawing of square, dot and circle" data-title="Exercise 7: Drawing of square, dot and circle"><img src="_static/lesson1/example7.gif" class="align-center" width="800px" height="500px" alt="Exercise 7: Drawing of square, dot and circle">
 </a>
 
 ## Exercise 8: Fill the circle
@@ -267,7 +267,7 @@ t.end_fill()
 turtle.done()
 ```
 
-<a class="" data-lightbox="Cargar proyecto" href="_static/lesson1/example8.gif" title="Cargar proyecto" data-title="Cargar proyecto"><img src="_static/lesson1/example8.gif" class="align-center" width="800px" height="500px" alt="Cargar proyecto">
+<a class="" data-lightbox="Exercise 8: Fill the circle" href="_static/lesson1/example8.gif" title="Exercise 8: Fill the circle" data-title="Exercise 8: Fill the circle"><img src="_static/lesson1/example8.gif" class="align-center" width="800px" height="500px" alt="Exercise 8: Fill the circle">
 </a>
 
 ## Exercise 9: Create Olympic Games logo
@@ -326,7 +326,7 @@ t.circle(100)
 turtle.done()
 ```
 
-<a class="" data-lightbox="Cargar proyecto" href="_static/lesson1/example9.gif" title="Cargar proyecto" data-title="Cargar proyecto"><img src="_static/lesson1/example9.gif" class="align-center" width="800px" height="500px" alt="Cargar proyecto">
+<a class="" data-lightbox="Exercise 9: Create Olympic Games logo" href="_static/lesson1/example9.gif" title="Exercise 9: Create Olympic Games logo" data-title="Exercise 9: Create Olympic Games logo"><img src="_static/lesson1/example9.gif" class="align-center" width="800px" height="500px" alt="Exercise 9: Create Olympic Games logo">
 </a>
 
 ## Exercise 10: Drawing a Maple Leaf
@@ -358,5 +358,5 @@ draw_leaf(size=40)
 turtle.done() 
 ```
 
-<a class="" data-lightbox="Cargar proyecto" href="_static/lesson1/example10.gif" title="Cargar proyecto" data-title="Cargar proyecto"><img src="_static/lesson1/example10.gif" class="align-center" width="800px" height="500px" alt="Cargar proyecto">
+<a class="" data-lightbox="Exercise 10: Drawing a Maple Leaf" href="_static/lesson1/example10.gif" title="Exercise 10: Drawing a Maple Leaf" data-title="Exercise 10: Drawing a Maple Leaf"><img src="_static/lesson1/example10.gif" class="align-center" width="800px" height="500px" alt="Exercise 10: Drawing a Maple Leaf">
 </a>
