@@ -14,7 +14,7 @@ print('my 1st line')
 print(f'my {a}nd line')
 ```
 
-<a class="" data-lightbox="Cargar proyecto" href="_static/lesson1/test.gif" title="Cargar proyecto" data-title="Cargar proyecto"><img src="_static/lesson1/test.gif" class="align-center" width="800px" height="500px" alt="Cargar proyecto">
+<a class="" data-lightbox="Cargar proyecto" href="_static/lesson1/example1.gif" title="Cargar proyecto" data-title="Cargar proyecto"><img src="_static/lesson1/example1.gif" class="align-center" width="800px" height="500px" alt="Cargar proyecto">
 </a>
 
 ## Example 2: Change size of the line
@@ -25,7 +25,7 @@ print('my 1st line')
 print(f'my {a}nd line')
 ```
 
-<a class="" data-lightbox="Cargar proyecto" href="_static/lesson1/test.gif" title="Cargar proyecto" data-title="Cargar proyecto"><img src="_static/lesson1/test.gif" class="align-center" width="800px" height="500px" alt="Cargar proyecto">
+<a class="" data-lightbox="Cargar proyecto" href="_static/lesson1/example2.gif" title="Cargar proyecto" data-title="Cargar proyecto"><img src="_static/lesson1/example2.gif" class="align-center" width="800px" height="500px" alt="Cargar proyecto">
 </a>
 
 ## Example 3: Change colour of the line 
@@ -36,7 +36,7 @@ print('my 1st line')
 print(f'my {a}nd line')
 ```
 
-<a class="" data-lightbox="Cargar proyecto" href="_static/lesson1/test.gif" title="Cargar proyecto" data-title="Cargar proyecto"><img src="_static/lesson1/test.gif" class="align-center" width="800px" height="500px" alt="Cargar proyecto">
+<a class="" data-lightbox="Cargar proyecto" href="_static/lesson1/example3.gif" title="Cargar proyecto" data-title="Cargar proyecto"><img src="_static/lesson1/example3.gif" class="align-center" width="800px" height="500px" alt="Cargar proyecto">
 </a>
 
 ## Example 4: Draw to lines 
@@ -47,7 +47,7 @@ print('my 1st line')
 print(f'my {a}nd line')
 ```
 
-<a class="" data-lightbox="Cargar proyecto" href="_static/lesson1/test.gif" title="Cargar proyecto" data-title="Cargar proyecto"><img src="_static/lesson1/test.gif" class="align-center" width="800px" height="500px" alt="Cargar proyecto">
+<a class="" data-lightbox="Cargar proyecto" href="_static/lesson1/example4.gif" title="Cargar proyecto" data-title="Cargar proyecto"><img src="_static/lesson1/example4.gif" class="align-center" width="800px" height="500px" alt="Cargar proyecto">
 </a>
 
 ## Example 5: Draw a circle 
@@ -58,7 +58,7 @@ print('my 1st line')
 print(f'my {a}nd line')
 ```
 
-<a class="" data-lightbox="Cargar proyecto" href="_static/lesson1/test.gif" title="Cargar proyecto" data-title="Cargar proyecto"><img src="_static/lesson1/test.gif" class="align-center" width="800px" height="500px" alt="Cargar proyecto">
+<a class="" data-lightbox="Cargar proyecto" href="_static/lesson1/example5.gif" title="Cargar proyecto" data-title="Cargar proyecto"><img src="_static/lesson1/example5.gif" class="align-center" width="800px" height="500px" alt="Cargar proyecto">
 </a>
 
 ## Example 6: Draw a dot
@@ -69,7 +69,7 @@ print('my 1st line')
 print(f'my {a}nd line')
 ```
 
-<a class="" data-lightbox="Cargar proyecto" href="_static/lesson1/test.gif" title="Cargar proyecto" data-title="Cargar proyecto"><img src="_static/lesson1/test.gif" class="align-center" width="800px" height="500px" alt="Cargar proyecto">
+<a class="" data-lightbox="Cargar proyecto" href="_static/lesson1/example6.gif" title="Cargar proyecto" data-title="Cargar proyecto"><img src="_static/lesson1/example6.gif" class="align-center" width="800px" height="500px" alt="Cargar proyecto">
 </a>
 
 ## Example 7: Change the Background colour
@@ -80,7 +80,7 @@ print('my 1st line')
 print(f'my {a}nd line')
 ```
 
-<a class="" data-lightbox="Cargar proyecto" href="_static/lesson1/test.gif" title="Cargar proyecto" data-title="Cargar proyecto"><img src="_static/lesson1/test.gif" class="align-center" width="800px" height="500px" alt="Cargar proyecto">
+<a class="" data-lightbox="Cargar proyecto" href="_static/lesson1/example7.gif" title="Cargar proyecto" data-title="Cargar proyecto"><img src="_static/lesson1/example7.gif" class="align-center" width="800px" height="500px" alt="Cargar proyecto">
 </a>
 
 ## Example 8: Change the title
@@ -91,7 +91,7 @@ print('my 1st line')
 print(f'my {a}nd line')
 ```
 
-<a class="" data-lightbox="Cargar proyecto" href="_static/lesson1/test.gif" title="Cargar proyecto" data-title="Cargar proyecto"><img src="_static/lesson1/test.gif" class="align-center" width="800px" height="500px" alt="Cargar proyecto">
+<a class="" data-lightbox="Cargar proyecto" href="_static/lesson1/example8.gif" title="Cargar proyecto" data-title="Cargar proyecto"><img src="_static/lesson1/example8.gif" class="align-center" width="800px" height="500px" alt="Cargar proyecto">
 </a>
 
 ## Example 9: Create and Start
@@ -102,7 +102,7 @@ print('my 1st line')
 print(f'my {a}nd line')
 ```
 
-<a class="" data-lightbox="Cargar proyecto" href="_static/lesson1/test.gif" title="Cargar proyecto" data-title="Cargar proyecto"><img src="_static/lesson1/test.gif" class="align-center" width="800px" height="500px" alt="Cargar proyecto">
+<a class="" data-lightbox="Cargar proyecto" href="_static/lesson1/example9.gif" title="Cargar proyecto" data-title="Cargar proyecto"><img src="_static/lesson1/example9.gif" class="align-center" width="800px" height="500px" alt="Cargar proyecto">
 </a>
 
 ## Example 10:
@@ -113,5 +113,5 @@ print('my 1st line')
 print(f'my {a}nd line')
 ```
 
-<a class="" data-lightbox="Cargar proyecto" href="_static/lesson1/test.gif" title="Cargar proyecto" data-title="Cargar proyecto"><img src="_static/lesson1/test.gif" class="align-center" width="800px" height="500px" alt="Cargar proyecto">
+<a class="" data-lightbox="Cargar proyecto" href="_static/lesson1/example10.gif" title="Cargar proyecto" data-title="Cargar proyecto"><img src="_static/lesson1/example10.gif" class="align-center" width="800px" height="500px" alt="Cargar proyecto">
 </a>
